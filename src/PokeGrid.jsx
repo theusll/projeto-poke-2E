@@ -1,7 +1,8 @@
 import poke from './assets/pokeapi_256.png'
 import eevee from './assets/eevee.jpg'
-import '<div className="" />
-<PokeGrid></PokeGrid>.css'
+import '<div className="" />'
+import './PokeGrid.css'
+<PokeGrid></PokeGrid>
 const PokeGrid = () => {
     return (
         <div>
